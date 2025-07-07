@@ -1,0 +1,48 @@
+# STM32CubeMX/STM32CubeIDE generated files
+*.ioc
+.ioc
+
+# CubeIDE
+.cproject
+.project
+.settings/
+*.launch
+
+# Build output
+build/
+Build/
+Debug/
+Release/
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+*.o
+*.d
+*.axf
+*.srec
+*.log
+
+# Object and dependency files
+*.o
+*.d
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# macOS specific
+.DS_Store
+
+# CMake / Make
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Other
+*.swp
+*.swo
+*.svd
